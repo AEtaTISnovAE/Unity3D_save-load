@@ -1,0 +1,3 @@
+<Save name="saveFile1">
+  <Score>10</Score>
+</Save>
